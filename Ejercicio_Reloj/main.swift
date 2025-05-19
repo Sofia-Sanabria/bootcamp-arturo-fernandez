@@ -1,3 +1,5 @@
+// Modificado por Sofia Sanabria
+
 import Foundation
 //CLASE DE RELOJ
 class reloj {
